@@ -1,0 +1,5 @@
+How to create the Game..
+At first set the variables.
+THen Use document.queryselector to select some text and text content to replace theh text.
+use innerHTML to write words into the page.
+textcontent to store vlaue.
